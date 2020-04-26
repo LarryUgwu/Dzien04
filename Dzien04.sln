@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstWinApp", "FirstWinApp\FirstWinApp.csproj", "{8C5C3B91-8531-43D4-A82F-6E5B10039CEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTextBox", "AppTextBox\AppTextBox.csproj", "{00756BF6-23FE-4B96-ABB5-356A389855C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathQuiz", "MathQuiz\MathQuiz.csproj", "{F0BAAFB8-092B-4147-8975-B7A967006601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C5C3B91-8531-43D4-A82F-6E5B10039CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C5C3B91-8531-43D4-A82F-6E5B10039CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C5C3B91-8531-43D4-A82F-6E5B10039CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C5C3B91-8531-43D4-A82F-6E5B10039CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00756BF6-23FE-4B96-ABB5-356A389855C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00756BF6-23FE-4B96-ABB5-356A389855C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00756BF6-23FE-4B96-ABB5-356A389855C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00756BF6-23FE-4B96-ABB5-356A389855C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0BAAFB8-092B-4147-8975-B7A967006601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0BAAFB8-092B-4147-8975-B7A967006601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0BAAFB8-092B-4147-8975-B7A967006601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0BAAFB8-092B-4147-8975-B7A967006601}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A788F332-C6C1-4033-9BBE-0250A98D9DFE}
+	EndGlobalSection
+EndGlobal
